@@ -122,7 +122,7 @@ img {
 
 
 #main {
-	background: url('../images/notebook.png');
+	background: url('notebook.png');
 	padding: 30px;
 	width: 610px;
 	float: left;
