@@ -149,7 +149,7 @@ img {
 #footer p {
 	color: rgb(40,40,40);
 	width: 610px;
-	background: url('notebook.png');
+	background: url('../MonthlyBlog/notebook.png');
 	padding: 10px;
 	margin: 0 10px 0 10px;
 }
