@@ -21,7 +21,7 @@ Author: Eli Redman | @Justice_Beav3r
 }
 
 body {
- background: url('carbon_fibre.webp'); /* add a fallback color of #d6d6d6 */
+ background: url('../MonthlyBlog/carbon_fibre.webp'); /* add a fallback color of #d6d6d6 */
  color: #000000;
  font-family: 'Lato', sans-serif;
  line-height: 1.7; /* line-height is unit-less */
@@ -122,7 +122,7 @@ img {
 
 
 #main {
-	background: url('notebook.png');
+	background: url('../MonthlyBlog/notebook.png');
 	padding: 30px;
 	width: 610px;
 	float: left;
@@ -141,7 +141,7 @@ img {
 }
 
 #header {
-	background: url('header.jpg');
+	background: url('../MonthlyBlog/header.jpg');
 	padding: 0px;
 	margin: 10px 10px 0 10px;
 }
@@ -149,7 +149,7 @@ img {
 #footer p {
 	color: rgb(40,40,40);
 	width: 610px;
-	background: url('../images/notebook.png');
+	background: url('../MonthlyBlog/notebook.png');
 	padding: 10px;
 	margin: 0 10px 0 10px;
 }
