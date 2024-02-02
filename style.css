@@ -141,7 +141,7 @@ img {
 }
 
 #header {
-	background: url('../images/header.jpg');
+	background: url('header.jpg');
 	padding: 0px;
 	margin: 10px 10px 0 10px;
 }
