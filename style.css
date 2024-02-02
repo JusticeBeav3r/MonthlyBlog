@@ -21,7 +21,7 @@ Author: Eli Redman | @Justice_Beav3r
 }
 
 body {
- background: url('../images/carbon_fibre.webp'); /* add a fallback color of #d6d6d6 */
+ background: url('carbon_fibre.webp'); /* add a fallback color of #d6d6d6 */
  color: #000000;
  font-family: 'Lato', sans-serif;
  line-height: 1.7; /* line-height is unit-less */
